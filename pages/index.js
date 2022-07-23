@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Mozão trabalhando aqui <3" />
         <p className="description">
-          Eu te amo <code>Futuramente aqui vão ter suas informações, mapas de onde você atende, redes sociais, contato profissional e etc</code>
+          Eu te amo <code>pages/index.js</code>
         </p>
       </main>
 
