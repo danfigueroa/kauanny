@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Mozão trabalhando aqui <3" />
         <p className="description">
-          Eu te amo, sabia?
+          Amo vc
         </p>
       </main>
 
