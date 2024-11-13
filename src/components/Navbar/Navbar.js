@@ -19,10 +19,6 @@ const Navbar = () => {
             path: '/singleservice',
         },
         {
-            name: 'Blogs',
-            path: '/blogs',
-        },
-        {
             name: 'Contact Us',
             path: '/contact',
         }
@@ -54,7 +50,7 @@ const Navbar = () => {
                             
                             {/* Navbar Button */}
                             <div className="theme-btn">
-                                <Link to="/contact">Book appointment</Link>
+                                <Link to="/contact">Agende sua Consulta</Link>
                             </div>
                         </div>
                     </div>

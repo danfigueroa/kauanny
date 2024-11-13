@@ -20,12 +20,12 @@ const Banner = () => {
                         <div className="row">
                             <div className="col-lg-6">
                                 <div className="banner-text" data-aos="fade-up" data-aos-duration="2000">
-                                    <h1>Entrust your smile to professionals</h1>
+                                    <h1>Atendimento humanizado para você e seus filhos</h1>
                                     <p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
 
                                     <div className="banner-bottom">
                                         <div className="theme-btn">
-                                            <Link to="/contact">Book an appointment</Link>
+                                            <Link to="/contact">Marque uma consulta</Link>
                                         </div>
 
                                         <div className="banner-call">
@@ -33,8 +33,8 @@ const Banner = () => {
                                                 <img src={icon} alt="icon" />
                                             </div>
                                             <div className='call-text'>
-                                                <p>Dental 24H Emergency</p>
-                                                <h6>03 482 394 123</h6>
+                                                <p>Whatsapp</p>
+                                                <h6>73 99999-9999</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -51,8 +51,8 @@ const Banner = () => {
                                             <img src={doctorImg} alt="doctor" />
                                         </div>
                                         <div className='info-text'>
-                                            <p>Dr. Samantha Alice</p>
-                                            <p><small>Consultant</small></p>
+                                            <p>Dra. Kauanny Dinamarca</p>
+                                            <p><small>Odonto Pediatra</small></p>
                                         </div>
                                     </div>  
 
